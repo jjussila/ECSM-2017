@@ -1,0 +1,2153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-01-30">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="institution" title="institution" type="string"></attribute>
+      <attribute id="degree" title="Degree" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="authority" title="Authority" type="float">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="hub" title="Hub" type="float">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="pageranks" title="PageRank" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="componentnumber" title="Component ID" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="ayjid" title="ayjid" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="AHN B" label="AHN B">
+        <attvalues>
+          <attvalue for="institution" value="YEUNGNAM UNIV, SOUTH KOREA"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="271.83075" y="-628.48486"></viz:position>
+        <viz:color r="156" g="93" b="144"></viz:color>
+      </node>
+      <node id="HWANG D" label="HWANG D">
+        <attvalues>
+          <attvalue for="institution" value="YEUNGNAM UNIV, SOUTH KOREA"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="pageranks" value="0.011986421209145736"></attvalue>
+          <attvalue for="componentnumber" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="515.8271" y="191.29578"></viz:position>
+        <viz:color r="54" g="178" b="0"></viz:color>
+      </node>
+      <node id="NGUYEN DT" label="NGUYEN DT">
+        <attvalues>
+          <attvalue for="institution" value="YEUNGNAM UNIV, SOUTH KOREA"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="pageranks" value="0.011986421209145736"></attvalue>
+          <attvalue for="componentnumber" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="490.47238" y="190.42757"></viz:position>
+        <viz:color r="54" g="178" b="0"></viz:color>
+      </node>
+      <node id="SAKAMOTO H" label="SAKAMOTO H">
+        <attvalues>
+          <attvalue for="institution" value="NEC SOLUT INNOVATORS LTD, JAPAN"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909134"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-530.88916" y="44.894604"></viz:position>
+        <viz:color r="0" g="123" b="161"></viz:color>
+      </node>
+      <node id="MIYAZAKI T" label="MIYAZAKI T">
+        <attvalues>
+          <attvalue for="institution" value="NEC SOLUT INNOVATORS LTD, JAPAN"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909134"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-546.21936" y="79.166374"></viz:position>
+        <viz:color r="0" g="123" b="161"></viz:color>
+      </node>
+      <node id="CHEN XJ" label="CHEN XJ">
+        <attvalues>
+          <attvalue for="institution" value="TSINGHUA UNIV, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.9230769230769231"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9583333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.28839067"></attvalue>
+          <attvalue for="hub" value="0.28839067"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="pageranks" value="0.014749770896235801"></attvalue>
+          <attvalue for="componentnumber" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="32.32975" y="93.61881"></viz:position>
+        <viz:color r="0" g="178" b="170"></viz:color>
+      </node>
+      <node id="OH J" label="OH J">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="304.38867" y="225.37416"></viz:position>
+        <viz:color r="246" g="88" b="236"></viz:color>
+      </node>
+      <node id="ZHANG LX" label="ZHANG LX">
+        <attvalues>
+          <attvalue for="institution" value="BEIJING NORMAL UNIV, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.9230769230769231"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9583333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.28839067"></attvalue>
+          <attvalue for="hub" value="0.28839067"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="pageranks" value="0.014749770896235801"></attvalue>
+          <attvalue for="componentnumber" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="87.00221" y="-30.950941"></viz:position>
+        <viz:color r="0" g="178" b="170"></viz:color>
+      </node>
+      <node id="IMURA H" label="IMURA H">
+        <attvalues>
+          <attvalue for="institution" value="HOKKAIDO UNIV, JAPAN"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.25"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="pageranks" value="0.014977767439661534"></attvalue>
+          <attvalue for="componentnumber" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.340909"></viz:size>
+        <viz:position x="82.54041" y="473.4977"></viz:position>
+        <viz:color r="255" g="54" b="68"></viz:color>
+      </node>
+      <node id="HA I" label="HA I">
+        <attvalues>
+          <attvalue for="institution" value="KYUNGIL UNIV, SOUTH KOREA"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="246.43922" y="-626.2418"></viz:position>
+        <viz:color r="156" g="93" b="144"></viz:color>
+      </node>
+      <node id="MURTHY D" label="MURTHY D">
+        <attvalues>
+          <attvalue for="institution" value="UNIV LONDON, ENGLAND"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909137"></attvalue>
+          <attvalue for="componentnumber" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="468.97217" y="489.25165"></viz:position>
+        <viz:color r="169" g="144" b="0"></viz:color>
+      </node>
+      <node id="BIN P" label="BIN P">
+        <attvalues>
+          <attvalue for="institution" value="NATL INST INFORMAT, JAPAN"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.8333333333333334"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="pageranks" value="0.012297985460404351"></attvalue>
+          <attvalue for="componentnumber" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="146.21527" y="471.52417"></viz:position>
+        <viz:color r="255" g="54" b="68"></viz:color>
+      </node>
+      <node id="BO X" label="BO X">
+        <attvalues>
+          <attvalue for="institution" value="APPRAISAL CTR ENVIRONM &amp; ENGN, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.9230769230769231"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9583333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.28839067"></attvalue>
+          <attvalue for="hub" value="0.28839067"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="pageranks" value="0.014749770896235801"></attvalue>
+          <attvalue for="componentnumber" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-27.679937" y="66.21254"></viz:position>
+        <viz:color r="0" g="178" b="170"></viz:color>
+      </node>
+      <node id="BELLO-ORGAZ G" label="BELLO-ORGAZ G">
+        <attvalues>
+          <attvalue for="institution" value="UNIV AUTONOMA MADRID, SPAIN"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="pageranks" value="0.011986421209145736"></attvalue>
+          <attvalue for="componentnumber" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="518.87244" y="140.79501"></viz:position>
+        <viz:color r="54" g="178" b="0"></viz:color>
+      </node>
+      <node id="SHIMIZU H" label="SHIMIZU H">
+        <attvalues>
+          <attvalue for="institution" value="NEC SOLUT INNOVATORS LTD, JAPAN"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909134"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-519.35486" y="70.60341"></viz:position>
+        <viz:color r="0" g="123" b="161"></viz:color>
+      </node>
+      <node id="BIAN KG" label="BIAN KG">
+        <attvalues>
+          <attvalue for="institution" value="PEKING UNIV, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909137"></attvalue>
+          <attvalue for="componentnumber" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-130.99907" y="-434.88605"></viz:position>
+        <viz:color r="130" g="130" b="246"></viz:color>
+      </node>
+      <node id="YEN TC" label="YEN TC">
+        <attvalues>
+          <attvalue for="institution" value="SENSORO TECHNOL CO LTD, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-636.95483" y="-310.6688"></viz:position>
+        <viz:color r="185" g="82" b="68"></viz:color>
+      </node>
+      <node id="LIU JG" label="LIU JG">
+        <attvalues>
+          <attvalue for="institution" value="TSINGHUA UNIV, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.9230769230769231"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9583333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.28839067"></attvalue>
+          <attvalue for="hub" value="0.28839067"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="pageranks" value="0.014749770896235801"></attvalue>
+          <attvalue for="componentnumber" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-52.25365" y="0.50244987"></viz:position>
+        <viz:color r="0" g="178" b="170"></viz:color>
+      </node>
+      <node id="KAI M" label="KAI M">
+        <attvalues>
+          <attvalue for="institution" value="NEC SOLUT INNOVATORS LTD, JAPAN"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909134"></attvalue>
+          <attvalue for="componentnumber" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-557.7676" y="53.44466"></viz:position>
+        <viz:color r="0" g="123" b="161"></viz:color>
+      </node>
+      <node id="JUNG JJ" label="JUNG JJ">
+        <attvalues>
+          <attvalue for="institution" value="CHUNG ANG UNIV, SOUTH KOREA"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="pageranks" value="0.022476849062962764"></attvalue>
+          <attvalue for="componentnumber" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="15.454546"></viz:size>
+        <viz:position x="503.9857" y="165.18703"></viz:position>
+        <viz:color r="54" g="178" b="0"></viz:color>
+      </node>
+      <node id="TORRE-BASTIDA AI" label="TORRE-BASTIDA AI">
+        <attvalues>
+          <attvalue for="institution" value="TECNALIA, SPAIN"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909134"></attvalue>
+          <attvalue for="componentnumber" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-435.28104" y="-217.57657"></viz:position>
+        <viz:color r="255" g="55" b="140"></viz:color>
+      </node>
+      <node id="MUKKAMALA RR" label="MUKKAMALA RR">
+        <attvalues>
+          <attvalue for="institution" value="IT UNIV COPENHAGEN, DENMARK"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-288.27036" y="611.4949"></viz:position>
+        <viz:color r="75" g="134" b="48"></viz:color>
+      </node>
+      <node id="CAI BF" label="CAI BF">
+        <attvalues>
+          <attvalue for="institution" value="CHINESE ACAD ENVIRONM PLANNING, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.9230769230769231"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9583333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.28839067"></attvalue>
+          <attvalue for="hub" value="0.28839067"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="pageranks" value="0.0147497708962358"></attvalue>
+          <attvalue for="componentnumber" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="56.538948" y="-96.955605"></viz:position>
+        <viz:color r="0" g="178" b="170"></viz:color>
+      </node>
+      <node id="DEL SER J" label="DEL SER J">
+        <attvalues>
+          <attvalue for="institution" value="TECNALIA, SPAIN"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909134"></attvalue>
+          <attvalue for="componentnumber" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-417.6221" y="-239.55724"></viz:position>
+        <viz:color r="255" g="55" b="140"></viz:color>
+      </node>
+      <node id="FANG YJ" label="FANG YJ">
+        <attvalues>
+          <attvalue for="institution" value="NATL CHI NAN UNIV, TAIWAN"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909136"></attvalue>
+          <attvalue for="componentnumber" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="417.52982" y="-243.72112"></viz:position>
+        <viz:color r="137" g="104" b="18"></viz:color>
+      </node>
+      <node id="LI CC" label="LI CC">
+        <attvalues>
+          <attvalue for="institution" value="HUAZHONG UNIV SCI &amp; TECHNOL, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909137"></attvalue>
+          <attvalue for="componentnumber" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-121.031136" y="-469.52063"></viz:position>
+        <viz:color r="130" g="130" b="246"></viz:color>
+      </node>
+      <node id="LEE BG" label="LEE BG">
+        <attvalues>
+          <attvalue for="institution" value="YONSEI UNIV, SOUTH KOREA"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="292.02438" y="247.65807"></viz:position>
+        <viz:color r="246" g="88" b="236"></viz:color>
+      </node>
+      <node id="GAO QX" label="GAO QX">
+        <attvalues>
+          <attvalue for="institution" value="CHINESE RES INST ENVIRONM SCI, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.9230769230769231"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9583333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.28839067"></attvalue>
+          <attvalue for="hub" value="0.28839067"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="pageranks" value="0.0147497708962358"></attvalue>
+          <attvalue for="componentnumber" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="39.70143" y="24.922432"></viz:position>
+        <viz:color r="0" g="178" b="170"></viz:color>
+      </node>
+      <node id="HUANG CC" label="HUANG CC">
+        <attvalues>
+          <attvalue for="institution" value="NATL CHI NAN UNIV, TAIWAN"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909136"></attvalue>
+          <attvalue for="componentnumber" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="453.07727" y="-260.81726"></viz:position>
+        <viz:color r="137" g="104" b="18"></viz:color>
+      </node>
+      <node id="GHEEWALA H" label="GHEEWALA H">
+        <attvalues>
+          <attvalue for="institution" value="AHMEDABAD UNIV, INDIA"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-575.7987" y="371.44632"></viz:position>
+        <viz:color r="252" g="105" b="0"></viz:color>
+      </node>
+      <node id="LI D" label="LI D">
+        <attvalues>
+          <attvalue for="institution" value="CHINA ACAD URBAN PLANNING &amp; DESIGN, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.9230769230769231"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9583333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.28839067"></attvalue>
+          <attvalue for="hub" value="0.28839067"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="pageranks" value="0.0147497708962358"></attvalue>
+          <attvalue for="componentnumber" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-0.041251693" y="0.005061781"></viz:position>
+        <viz:color r="0" g="178" b="170"></viz:color>
+      </node>
+      <node id="PATEL A" label="PATEL A">
+        <attvalues>
+          <attvalue for="institution" value="AHMEDABAD UNIV, INDIA"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-591.12506" y="351.0766"></viz:position>
+        <viz:color r="252" g="105" b="0"></viz:color>
+      </node>
+      <node id="LI WX" label="LI WX">
+        <attvalues>
+          <attvalue for="institution" value="CITY UNIV HONG KONG, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.9230769230769231"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9583333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.28839067"></attvalue>
+          <attvalue for="hub" value="0.28839067"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="pageranks" value="0.0147497708962358"></attvalue>
+          <attvalue for="componentnumber" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-85.17611" y="-51.925026"></viz:position>
+        <viz:color r="0" g="178" b="170"></viz:color>
+      </node>
+      <node id="WU SR" label="WU SR">
+        <attvalues>
+          <attvalue for="institution" value="NATL CHI NAN UNIV, TAIWAN"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909136"></attvalue>
+          <attvalue for="componentnumber" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="401.18" y="-269.87506"></viz:position>
+        <viz:color r="137" g="104" b="18"></viz:color>
+      </node>
+      <node id="TANAKA Y" label="TANAKA Y">
+        <attvalues>
+          <attvalue for="institution" value="HOKKAIDO UNIV, JAPAN"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.25"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="pageranks" value="0.014977767439661536"></attvalue>
+          <attvalue for="componentnumber" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.340909"></viz:size>
+        <viz:position x="96.16874" y="503.005"></viz:position>
+        <viz:color r="255" g="54" b="68"></viz:color>
+      </node>
+      <node id="GHOSH G" label="GHOSH G">
+        <attvalues>
+          <attvalue for="institution" value="BIRLA INST TECHNOL, INDIA"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="695.40405" y="-16.32933"></viz:position>
+        <viz:color r="0" g="187" b="249"></viz:color>
+      </node>
+      <node id="GROSS A" label="GROSS A">
+        <attvalues>
+          <attvalue for="institution" value="UNIV MAINE, ME 04469 USA"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909137"></attvalue>
+          <attvalue for="componentnumber" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="459.74014" y="468.78253"></viz:position>
+        <viz:color r="169" g="144" b="0"></viz:color>
+      </node>
+      <node id="LONG Y" label="LONG Y">
+        <attvalues>
+          <attvalue for="institution" value="BEIJING KEY LAB CAPITAL SPATIAL PLANNING &amp; STUDIE, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.9230769230769231"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9583333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.28839067"></attvalue>
+          <attvalue for="hub" value="0.28839067"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="pageranks" value="0.0147497708962358"></attvalue>
+          <attvalue for="componentnumber" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="11.688923" y="-49.386124"></viz:position>
+        <viz:color r="0" g="178" b="170"></viz:color>
+      </node>
+      <node id="SONG TM" label="SONG TM">
+        <attvalues>
+          <attvalue for="institution" value="KOREA INST HLTH &amp; SOCIAL AFFAIRS, SOUTH KOREA"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="16"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909134"></attvalue>
+          <attvalue for="componentnumber" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-268.30255" y="316.24277"></viz:position>
+        <viz:color r="0" g="175" b="86"></viz:color>
+      </node>
+      <node id="CHING NG" label="CHING NG">
+        <attvalues>
+          <attvalue for="institution" value="JIANGXI UNIV FINANCE &amp; ECON, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909137"></attvalue>
+          <attvalue for="componentnumber" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="210.02057" y="-399.61646"></viz:position>
+        <viz:color r="0" g="127" b="111"></viz:color>
+      </node>
+      <node id="SONG JY" label="SONG JY">
+        <attvalues>
+          <attvalue for="institution" value="PENN STATE UNIV, PA USA"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="16"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909134"></attvalue>
+          <attvalue for="componentnumber" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-282.9345" y="340.3184"></viz:position>
+        <viz:color r="0" g="175" b="86"></viz:color>
+      </node>
+      <node id="TAKASU A" label="TAKASU A">
+        <attvalues>
+          <attvalue for="institution" value="NATL INST INFORMAT, JAPAN"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.25"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="pageranks" value="0.014977767439661536"></attvalue>
+          <attvalue for="componentnumber" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.340909"></viz:size>
+        <viz:position x="112.70742" y="470.3161"></viz:position>
+        <viz:color r="255" g="54" b="68"></viz:color>
+      </node>
+      <node id="AIHARA K" label="AIHARA K">
+        <attvalues>
+          <attvalue for="institution" value="NATL INST INFORMAT, JAPAN"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.25"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="pageranks" value="0.014977767439661534"></attvalue>
+          <attvalue for="componentnumber" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.340909"></viz:size>
+        <viz:position x="126.13874" y="500.55157"></viz:position>
+        <viz:color r="255" g="54" b="68"></viz:color>
+      </node>
+      <node id="BANERJEE S" label="BANERJEE S">
+        <attvalues>
+          <attvalue for="institution" value="BIRLA INST TECHNOL, INDIA"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="670.57355" y="-10.639059"></viz:position>
+        <viz:color r="0" g="187" b="249"></viz:color>
+      </node>
+      <node id="LIANG WY" label="LIANG WY">
+        <attvalues>
+          <attvalue for="institution" value="NATL CHANGHUA UNIV EDUC, TAIWAN"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909136"></attvalue>
+          <attvalue for="componentnumber" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="445.12878" y="-229.73882"></viz:position>
+        <viz:color r="137" g="104" b="18"></viz:color>
+      </node>
+      <node id="CHEN KT" label="CHEN KT">
+        <attvalues>
+          <attvalue for="institution" value="NATL TAIPEI UNIV TECHNOL, TAIWAN"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5217391304347826"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5416666666666666"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.026398905"></attvalue>
+          <attvalue for="hub" value="0.026398905"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="pageranks" value="0.0033523928058025597"></attvalue>
+          <attvalue for="componentnumber" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-129.54106" y="66.60933"></viz:position>
+        <viz:color r="0" g="178" b="170"></viz:color>
+      </node>
+      <node id="NAGLA L" label="NAGLA L">
+        <attvalues>
+          <attvalue for="institution" value="AHMEDABAD UNIV, INDIA"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-601.0997" y="374.52826"></viz:position>
+        <viz:color r="252" g="105" b="0"></viz:color>
+      </node>
+      <node id="HUSSAIN A" label="HUSSAIN A">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-313.7577" y="611.91345"></viz:position>
+        <viz:color r="75" g="134" b="48"></viz:color>
+      </node>
+      <node id="NI Z" label="NI Z">
+        <attvalues>
+          <attvalue for="institution" value="TSINGHUA UNIV, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.9230769230769231"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9583333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.28839067"></attvalue>
+          <attvalue for="hub" value="0.28839067"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="pageranks" value="0.0147497708962358"></attvalue>
+          <attvalue for="componentnumber" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-30.06101" y="-98.427376"></viz:position>
+        <viz:color r="0" g="178" b="170"></viz:color>
+      </node>
+      <node id="ZHOU YX" label="ZHOU YX">
+        <attvalues>
+          <attvalue for="institution" value="HUAZHONG UNIV SCI &amp; TECHNOL, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909137"></attvalue>
+          <attvalue for="componentnumber" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-133.40544" y="-503.37277"></viz:position>
+        <viz:color r="130" g="130" b="246"></viz:color>
+      </node>
+      <node id="SEO DC" label="SEO DC">
+        <attvalues>
+          <attvalue for="institution" value="INDIANA UNIV, IN 47405 USA"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="16"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909134"></attvalue>
+          <attvalue for="componentnumber" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-292.38797" y="301.60822"></viz:position>
+        <viz:color r="0" g="175" b="86"></viz:color>
+      </node>
+      <node id="YEN NY" label="YEN NY">
+        <attvalues>
+          <attvalue for="institution" value="UNIV AIZU, JAPAN"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="678.0571" y="-35.008217"></viz:position>
+        <viz:color r="0" g="187" b="249"></viz:color>
+      </node>
+      <node id="HSIEH HP" label="HSIEH HP">
+        <attvalues>
+          <attvalue for="institution" value="NATL TAIWAN UNIV, TAIWAN"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-654.5011" y="-329.1474"></viz:position>
+        <viz:color r="185" g="82" b="68"></viz:color>
+      </node>
+      <node id="CAMACHO D" label="CAMACHO D">
+        <attvalues>
+          <attvalue for="institution" value="UNIV AUTONOMA MADRID, SPAIN"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.6666666666666666"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.75"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="pageranks" value="0.011986421209145736"></attvalue>
+          <attvalue for="componentnumber" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="493.50638" y="139.76794"></viz:position>
+        <viz:color r="54" g="178" b="0"></viz:color>
+      </node>
+      <node id="ADACHI J" label="ADACHI J">
+        <attvalues>
+          <attvalue for="institution" value="NATL INST INFORMAT, JAPAN"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.8333333333333334"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="pageranks" value="0.012297985460404353"></attvalue>
+          <attvalue for="componentnumber" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="61.262787" y="505.00656"></viz:position>
+        <viz:color r="255" g="54" b="68"></viz:color>
+      </node>
+      <node id="WANG JN" label="WANG JN">
+        <attvalues>
+          <attvalue for="institution" value="CHINESE ACAD ENVIRONM PLANNING, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.9230769230769231"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9583333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.28839067"></attvalue>
+          <attvalue for="hub" value="0.28839067"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="pageranks" value="0.0147497708962358"></attvalue>
+          <attvalue for="componentnumber" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="100.490654" y="42.01177"></viz:position>
+        <viz:color r="0" g="178" b="170"></viz:color>
+      </node>
+      <node id="WANG JH" label="WANG JH">
+        <attvalues>
+          <attvalue for="institution" value="NATL TAIPEI UNIV TECHNOL, TAIWAN"></attvalue>
+          <attvalue for="degree" value="12"></attvalue>
+          <attvalue for="weighted degree" value="12.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="11.0"></attvalue>
+          <attvalue for="authority" value="0.29058918"></attvalue>
+          <attvalue for="hub" value="0.29058918"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="pageranks" value="0.017498715474422572"></attvalue>
+          <attvalue for="componentnumber" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="25.0"></viz:size>
+        <viz:position x="-103.95759" y="52.018692"></viz:position>
+        <viz:color r="0" g="178" b="170"></viz:color>
+      </node>
+      <node id="VATRAPU R" label="VATRAPU R">
+        <attvalues>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-300.65634" y="633.77185"></viz:position>
+        <viz:color r="75" g="134" b="48"></viz:color>
+      </node>
+      <node id="LEE Y" label="LEE Y">
+        <attvalues>
+          <attvalue for="institution" value="YONSEI UNIV, SOUTH KOREA"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="317.49738" y="247.23894"></viz:position>
+        <viz:color r="246" g="88" b="236"></viz:color>
+      </node>
+      <node id="GIL-LOPEZ S" label="GIL-LOPEZ S">
+        <attvalues>
+          <attvalue for="institution" value="TECNALIA, SPAIN"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909134"></attvalue>
+          <attvalue for="componentnumber" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-400.4759" y="-217.0402"></viz:position>
+        <viz:color r="255" g="55" b="140"></viz:color>
+      </node>
+      <node id="GUELLIL I" label="GUELLIL I">
+        <attvalues>
+          <attvalue for="institution" value="ESI, ALGERIA"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909137"></attvalue>
+          <attvalue for="componentnumber" value="16"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-180.55316" y="-977.95044"></viz:position>
+        <viz:color r="0" g="160" b="254"></viz:color>
+      </node>
+      <node id="VILLAR-RODRIGUEZ E" label="VILLAR-RODRIGUEZ E">
+        <attvalues>
+          <attvalue for="institution" value="TECNALIA, SPAIN"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909134"></attvalue>
+          <attvalue for="componentnumber" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-418.2423" y="-195.0363"></viz:position>
+        <viz:color r="255" g="55" b="140"></viz:color>
+      </node>
+      <node id="LIN SH" label="LIN SH">
+        <attvalues>
+          <attvalue for="institution" value="NATL CHI NAN UNIV, TAIWAN"></attvalue>
+          <attvalue for="degree" value="4"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909136"></attvalue>
+          <attvalue for="componentnumber" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="430.75824" y="-282.4116"></viz:position>
+        <viz:color r="137" g="104" b="18"></viz:color>
+      </node>
+      <node id="RAHARDJA S" label="RAHARDJA S">
+        <attvalues>
+          <attvalue for="institution" value="NORTHWESTERN POLYTECH UNIV, CA USA"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909137"></attvalue>
+          <attvalue for="componentnumber" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-92.52829" y="-491.65866"></viz:position>
+        <viz:color r="130" g="130" b="246"></viz:color>
+      </node>
+      <node id="LI CT" label="LI CT">
+        <attvalues>
+          <attvalue for="institution" value="ACAD SINICA, TAIWAN"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-629.72156" y="-335.1189"></viz:position>
+        <viz:color r="185" g="82" b="68"></viz:color>
+      </node>
+      <node id="BACK B" label="BACK B">
+        <attvalues>
+          <attvalue for="institution" value="YEUNGNAM UNIV, SOUTH KOREA"></attvalue>
+          <attvalue for="degree" value="2"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="pageranks" value="0.01408450677990914"></attvalue>
+          <attvalue for="componentnumber" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="261.08273" y="-605.3776"></viz:position>
+        <viz:color r="156" g="93" b="144"></viz:color>
+      </node>
+      <node id="DANIEL WA" label="DANIEL WA">
+        <attvalues>
+          <attvalue for="institution" value="JIANGXI UNIV FINANCE &amp; ECON, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909137"></attvalue>
+          <attvalue for="componentnumber" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="223.56491" y="-417.52667"></viz:position>
+        <viz:color r="0" g="127" b="111"></viz:color>
+      </node>
+      <node id="BOUKHALFA K" label="BOUKHALFA K">
+        <attvalues>
+          <attvalue for="institution" value="USTHB, ALGERIA"></attvalue>
+          <attvalue for="degree" value="1"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="14"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909137"></attvalue>
+          <attvalue for="componentnumber" value="16"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-200.32729" y="-988.5912"></viz:position>
+        <viz:color r="0" g="160" b="254"></viz:color>
+      </node>
+      <node id="JIANG T" label="JIANG T">
+        <attvalues>
+          <attvalue for="institution" value="HUAZHONG UNIV SCI &amp; TECHNOL, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909137"></attvalue>
+          <attvalue for="componentnumber" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-157.17014" y="-468.2626"></viz:position>
+        <viz:color r="130" g="130" b="246"></viz:color>
+      </node>
+      <node id="ZHOU P" label="ZHOU P">
+        <attvalues>
+          <attvalue for="institution" value="HUAZHONG UNIV SCI &amp; TECHNOL, PEOPLES R CHINA"></attvalue>
+          <attvalue for="degree" value="5"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="15"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909137"></attvalue>
+          <attvalue for="componentnumber" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-91.08849" y="-449.32172"></viz:position>
+        <viz:color r="130" g="130" b="246"></viz:color>
+      </node>
+      <node id="JIN JH" label="JIN JH">
+        <attvalues>
+          <attvalue for="institution" value="KOREA INST HLTH &amp; SOCIAL AFFAIRS, SOUTH KOREA"></attvalue>
+          <attvalue for="degree" value="3"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="1.0"></attvalue>
+          <attvalue for="closnesscentrality" value="1.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="authority" value="0.0"></attvalue>
+          <attvalue for="hub" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="16"></attvalue>
+          <attvalue for="pageranks" value="0.014084506779909134"></attvalue>
+          <attvalue for="componentnumber" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-307.0213" y="325.68698"></viz:position>
+        <viz:color r="0" g="175" b="86"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="AHN B" target="HA I">
+        <attvalues>
+          <attvalue for="ayjid" value="['HA I 2015 INTERNATIONAL JOURNAL OF DISTRIBUTED SENSOR NETWORKS']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="AHN B" target="BACK B">
+        <attvalues>
+          <attvalue for="ayjid" value="['HA I 2015 INTERNATIONAL JOURNAL OF DISTRIBUTED SENSOR NETWORKS']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="HWANG D" target="NGUYEN DT">
+        <attvalues>
+          <attvalue for="ayjid" value="['NGUYEN DT 2015 INTELLIGENT DISTRIBUTED COMPUTING VIII']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="HWANG D" target="JUNG JJ">
+        <attvalues>
+          <attvalue for="ayjid" value="['NGUYEN DT 2015 INTELLIGENT DISTRIBUTED COMPUTING VIII']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="NGUYEN DT" target="JUNG JJ">
+        <attvalues>
+          <attvalue for="ayjid" value="['NGUYEN DT 2015 INTELLIGENT DISTRIBUTED COMPUTING VIII']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="SAKAMOTO H" target="KAI M">
+        <attvalues>
+          <attvalue for="ayjid" value="['SHIMIZU H 2016 2016 23RD INTERNATIONAL CONFERENCE ON TELECOMMUNICATIONS (ICT)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="SAKAMOTO H" target="SHIMIZU H">
+        <attvalues>
+          <attvalue for="ayjid" value="['SHIMIZU H 2016 2016 23RD INTERNATIONAL CONFERENCE ON TELECOMMUNICATIONS (ICT)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="SAKAMOTO H" target="MIYAZAKI T">
+        <attvalues>
+          <attvalue for="ayjid" value="['SHIMIZU H 2016 2016 23RD INTERNATIONAL CONFERENCE ON TELECOMMUNICATIONS (ICT)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="MIYAZAKI T" target="KAI M">
+        <attvalues>
+          <attvalue for="ayjid" value="['SHIMIZU H 2016 2016 23RD INTERNATIONAL CONFERENCE ON TELECOMMUNICATIONS (ICT)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="MIYAZAKI T" target="SHIMIZU H">
+        <attvalues>
+          <attvalue for="ayjid" value="['SHIMIZU H 2016 2016 23RD INTERNATIONAL CONFERENCE ON TELECOMMUNICATIONS (ICT)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="CHEN XJ" target="WANG JN">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="CHEN XJ" target="LONG Y">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="12" source="CHEN XJ" target="WANG JH">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="13" source="CHEN XJ" target="ZHANG LX">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="14" source="CHEN XJ" target="BO X">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="15" source="CHEN XJ" target="GAO QX">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="16" source="CHEN XJ" target="CAI BF">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="17" source="CHEN XJ" target="LI D">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="18" source="CHEN XJ" target="LIU JG">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="19" source="CHEN XJ" target="LI WX">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="20" source="CHEN XJ" target="NI Z">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="21" source="OH J" target="LEE Y">
+        <attvalues>
+          <attvalue for="ayjid" value="['LEE Y 2012 2012 FOURTH INTERNATIONAL CONFERENCE ON COMPUTATIONAL ASPECTS OF SOCIAL NETWORKS (CASON)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="22" source="OH J" target="LEE BG">
+        <attvalues>
+          <attvalue for="ayjid" value="['LEE Y 2012 2012 FOURTH INTERNATIONAL CONFERENCE ON COMPUTATIONAL ASPECTS OF SOCIAL NETWORKS (CASON)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="23" source="ZHANG LX" target="WANG JN">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="24" source="ZHANG LX" target="LONG Y">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="25" source="ZHANG LX" target="WANG JH">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="26" source="ZHANG LX" target="BO X">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="27" source="ZHANG LX" target="GAO QX">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="28" source="ZHANG LX" target="CAI BF">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="29" source="ZHANG LX" target="LI D">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="30" source="ZHANG LX" target="LIU JG">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="31" source="ZHANG LX" target="LI WX">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="32" source="ZHANG LX" target="NI Z">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="33" source="IMURA H" target="TAKASU A" weight="2.0">
+        <attvalues>
+          <attvalue for="ayjid" value="['AIHARA K 2016 DISTRIBUTED, AMBIENT AND PERVASIVE INTERACTIONS, (DAPI 2016)', 'AIHARA K 2014 2014 IEEE 7TH INTERNATIONAL CONFERENCE ON SERVICE-ORIENTED COMPUTING AND APPLICATIONS (SOCA)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="34" source="IMURA H" target="AIHARA K" weight="2.0">
+        <attvalues>
+          <attvalue for="ayjid" value="['AIHARA K 2016 DISTRIBUTED, AMBIENT AND PERVASIVE INTERACTIONS, (DAPI 2016)', 'AIHARA K 2014 2014 IEEE 7TH INTERNATIONAL CONFERENCE ON SERVICE-ORIENTED COMPUTING AND APPLICATIONS (SOCA)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="35" source="IMURA H" target="ADACHI J">
+        <attvalues>
+          <attvalue for="ayjid" value="['AIHARA K 2014 2014 IEEE 7TH INTERNATIONAL CONFERENCE ON SERVICE-ORIENTED COMPUTING AND APPLICATIONS (SOCA)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="36" source="IMURA H" target="BIN P">
+        <attvalues>
+          <attvalue for="ayjid" value="['AIHARA K 2016 DISTRIBUTED, AMBIENT AND PERVASIVE INTERACTIONS, (DAPI 2016)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="37" source="IMURA H" target="TANAKA Y" weight="2.0">
+        <attvalues>
+          <attvalue for="ayjid" value="['AIHARA K 2016 DISTRIBUTED, AMBIENT AND PERVASIVE INTERACTIONS, (DAPI 2016)', 'AIHARA K 2014 2014 IEEE 7TH INTERNATIONAL CONFERENCE ON SERVICE-ORIENTED COMPUTING AND APPLICATIONS (SOCA)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="38" source="HA I" target="BACK B">
+        <attvalues>
+          <attvalue for="ayjid" value="['HA I 2015 INTERNATIONAL JOURNAL OF DISTRIBUTED SENSOR NETWORKS']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="39" source="MURTHY D" target="GROSS A">
+        <attvalues>
+          <attvalue for="ayjid" value="['GROSS A 2014 NEURAL NETWORKS']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="40" source="BIN P" target="TAKASU A">
+        <attvalues>
+          <attvalue for="ayjid" value="['AIHARA K 2016 DISTRIBUTED, AMBIENT AND PERVASIVE INTERACTIONS, (DAPI 2016)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="41" source="BIN P" target="AIHARA K">
+        <attvalues>
+          <attvalue for="ayjid" value="['AIHARA K 2016 DISTRIBUTED, AMBIENT AND PERVASIVE INTERACTIONS, (DAPI 2016)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="42" source="BIN P" target="TANAKA Y">
+        <attvalues>
+          <attvalue for="ayjid" value="['AIHARA K 2016 DISTRIBUTED, AMBIENT AND PERVASIVE INTERACTIONS, (DAPI 2016)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="43" source="BO X" target="WANG JN">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="BO X" target="NI Z">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="BO X" target="WANG JH">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="46" source="BO X" target="GAO QX">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="BO X" target="CAI BF">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="48" source="BO X" target="LI D">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="49" source="BO X" target="LIU JG">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="50" source="BO X" target="LI WX">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="BO X" target="LONG Y">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="BELLO-ORGAZ G" target="CAMACHO D">
+        <attvalues>
+          <attvalue for="ayjid" value="['BELLO-ORGAZ G 2016 INFORMATION FUSION']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="53" source="BELLO-ORGAZ G" target="JUNG JJ">
+        <attvalues>
+          <attvalue for="ayjid" value="['BELLO-ORGAZ G 2016 INFORMATION FUSION']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="54" source="SHIMIZU H" target="KAI M">
+        <attvalues>
+          <attvalue for="ayjid" value="['SHIMIZU H 2016 2016 23RD INTERNATIONAL CONFERENCE ON TELECOMMUNICATIONS (ICT)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="55" source="BIAN KG" target="ZHOU P">
+        <attvalues>
+          <attvalue for="ayjid" value="['LI CC 2016 2016 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="56" source="BIAN KG" target="JIANG T">
+        <attvalues>
+          <attvalue for="ayjid" value="['LI CC 2016 2016 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="BIAN KG" target="LI CC">
+        <attvalues>
+          <attvalue for="ayjid" value="['LI CC 2016 2016 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="58" source="BIAN KG" target="RAHARDJA S">
+        <attvalues>
+          <attvalue for="ayjid" value="['LI CC 2016 2016 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="59" source="BIAN KG" target="ZHOU YX">
+        <attvalues>
+          <attvalue for="ayjid" value="['LI CC 2016 2016 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="60" source="YEN TC" target="LI CT">
+        <attvalues>
+          <attvalue for="ayjid" value="[&quot;HSIEH HP 2015 MM'15: PROCEEDINGS OF THE 2015 ACM MULTIMEDIA CONFERENCE&quot;]"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="61" source="YEN TC" target="HSIEH HP">
+        <attvalues>
+          <attvalue for="ayjid" value="[&quot;HSIEH HP 2015 MM'15: PROCEEDINGS OF THE 2015 ACM MULTIMEDIA CONFERENCE&quot;]"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="62" source="LIU JG" target="WANG JN">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="63" source="LIU JG" target="LONG Y">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="64" source="LIU JG" target="WANG JH">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="65" source="LIU JG" target="GAO QX">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="66" source="LIU JG" target="CAI BF">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="67" source="LIU JG" target="LI D">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="68" source="LIU JG" target="LI WX">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="69" source="LIU JG" target="NI Z">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="70" source="JUNG JJ" target="CAMACHO D" weight="2.0">
+        <attvalues>
+          <attvalue for="ayjid" value="['BELLO-ORGAZ G 2016 INFORMATION FUSION', 'CAMACHO D 2016 INFORMATION FUSION']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="71" source="TORRE-BASTIDA AI" target="DEL SER J">
+        <attvalues>
+          <attvalue for="ayjid" value="['TORRE-BASTIDA AI 2015 INTELLIGENT DISTRIBUTED COMPUTING VIII']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="72" source="TORRE-BASTIDA AI" target="GIL-LOPEZ S">
+        <attvalues>
+          <attvalue for="ayjid" value="['TORRE-BASTIDA AI 2015 INTELLIGENT DISTRIBUTED COMPUTING VIII']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="73" source="TORRE-BASTIDA AI" target="VILLAR-RODRIGUEZ E">
+        <attvalues>
+          <attvalue for="ayjid" value="['TORRE-BASTIDA AI 2015 INTELLIGENT DISTRIBUTED COMPUTING VIII']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="74" source="MUKKAMALA RR" target="VATRAPU R">
+        <attvalues>
+          <attvalue for="ayjid" value="['MUKKAMALA RR 2014 2014 IEEE INTERNATIONAL CONGRESS ON BIG DATA (BIGDATA CONGRESS)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="75" source="MUKKAMALA RR" target="HUSSAIN A">
+        <attvalues>
+          <attvalue for="ayjid" value="['MUKKAMALA RR 2014 2014 IEEE INTERNATIONAL CONGRESS ON BIG DATA (BIGDATA CONGRESS)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="76" source="CAI BF" target="WANG JN">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="77" source="CAI BF" target="LONG Y">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="78" source="CAI BF" target="WANG JH">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="79" source="CAI BF" target="GAO QX">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="80" source="CAI BF" target="LI D">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="81" source="CAI BF" target="LI WX">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="82" source="CAI BF" target="NI Z">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="83" source="DEL SER J" target="GIL-LOPEZ S">
+        <attvalues>
+          <attvalue for="ayjid" value="['TORRE-BASTIDA AI 2015 INTELLIGENT DISTRIBUTED COMPUTING VIII']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="84" source="DEL SER J" target="VILLAR-RODRIGUEZ E">
+        <attvalues>
+          <attvalue for="ayjid" value="['TORRE-BASTIDA AI 2015 INTELLIGENT DISTRIBUTED COMPUTING VIII']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="85" source="FANG YJ" target="LIN SH">
+        <attvalues>
+          <attvalue for="ayjid" value="['HUANG CC 2016 ADVANCES IN DATA MINING: APPLICATIONS AND THEORETICAL ASPECTS']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="86" source="FANG YJ" target="HUANG CC">
+        <attvalues>
+          <attvalue for="ayjid" value="['HUANG CC 2016 ADVANCES IN DATA MINING: APPLICATIONS AND THEORETICAL ASPECTS']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="87" source="FANG YJ" target="LIANG WY">
+        <attvalues>
+          <attvalue for="ayjid" value="['HUANG CC 2016 ADVANCES IN DATA MINING: APPLICATIONS AND THEORETICAL ASPECTS']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="88" source="FANG YJ" target="WU SR">
+        <attvalues>
+          <attvalue for="ayjid" value="['HUANG CC 2016 ADVANCES IN DATA MINING: APPLICATIONS AND THEORETICAL ASPECTS']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="89" source="LI CC" target="RAHARDJA S">
+        <attvalues>
+          <attvalue for="ayjid" value="['LI CC 2016 2016 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="90" source="LI CC" target="ZHOU P">
+        <attvalues>
+          <attvalue for="ayjid" value="['LI CC 2016 2016 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="91" source="LI CC" target="JIANG T">
+        <attvalues>
+          <attvalue for="ayjid" value="['LI CC 2016 2016 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="92" source="LI CC" target="ZHOU YX">
+        <attvalues>
+          <attvalue for="ayjid" value="['LI CC 2016 2016 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="93" source="LEE BG" target="LEE Y">
+        <attvalues>
+          <attvalue for="ayjid" value="['LEE Y 2012 2012 FOURTH INTERNATIONAL CONFERENCE ON COMPUTATIONAL ASPECTS OF SOCIAL NETWORKS (CASON)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="94" source="GAO QX" target="WANG JN">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="95" source="GAO QX" target="NI Z">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="96" source="GAO QX" target="WANG JH">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="97" source="GAO QX" target="LI D">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="98" source="GAO QX" target="LI WX">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="99" source="GAO QX" target="LONG Y">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="100" source="HUANG CC" target="LIN SH">
+        <attvalues>
+          <attvalue for="ayjid" value="['HUANG CC 2016 ADVANCES IN DATA MINING: APPLICATIONS AND THEORETICAL ASPECTS']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="101" source="HUANG CC" target="LIANG WY">
+        <attvalues>
+          <attvalue for="ayjid" value="['HUANG CC 2016 ADVANCES IN DATA MINING: APPLICATIONS AND THEORETICAL ASPECTS']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="102" source="HUANG CC" target="WU SR">
+        <attvalues>
+          <attvalue for="ayjid" value="['HUANG CC 2016 ADVANCES IN DATA MINING: APPLICATIONS AND THEORETICAL ASPECTS']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="103" source="GHEEWALA H" target="NAGLA L">
+        <attvalues>
+          <attvalue for="ayjid" value="['PATEL A 2014 2014 CONFERENCE ON IT IN BUSINESS, INDUSTRY AND GOVERNMENT (CSIBIG)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="104" source="GHEEWALA H" target="PATEL A">
+        <attvalues>
+          <attvalue for="ayjid" value="['PATEL A 2014 2014 CONFERENCE ON IT IN BUSINESS, INDUSTRY AND GOVERNMENT (CSIBIG)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="105" source="LI D" target="WANG JN">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="106" source="LI D" target="LONG Y">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="107" source="LI D" target="WANG JH">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="108" source="LI D" target="LI WX">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="109" source="LI D" target="NI Z">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="110" source="PATEL A" target="NAGLA L">
+        <attvalues>
+          <attvalue for="ayjid" value="['PATEL A 2014 2014 CONFERENCE ON IT IN BUSINESS, INDUSTRY AND GOVERNMENT (CSIBIG)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="111" source="LI WX" target="WANG JN">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="112" source="LI WX" target="LONG Y">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="113" source="LI WX" target="WANG JH">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="114" source="LI WX" target="NI Z">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="115" source="WU SR" target="LIN SH">
+        <attvalues>
+          <attvalue for="ayjid" value="['HUANG CC 2016 ADVANCES IN DATA MINING: APPLICATIONS AND THEORETICAL ASPECTS']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="116" source="WU SR" target="LIANG WY">
+        <attvalues>
+          <attvalue for="ayjid" value="['HUANG CC 2016 ADVANCES IN DATA MINING: APPLICATIONS AND THEORETICAL ASPECTS']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="117" source="TANAKA Y" target="TAKASU A" weight="2.0">
+        <attvalues>
+          <attvalue for="ayjid" value="['AIHARA K 2016 DISTRIBUTED, AMBIENT AND PERVASIVE INTERACTIONS, (DAPI 2016)', 'AIHARA K 2014 2014 IEEE 7TH INTERNATIONAL CONFERENCE ON SERVICE-ORIENTED COMPUTING AND APPLICATIONS (SOCA)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="118" source="TANAKA Y" target="ADACHI J">
+        <attvalues>
+          <attvalue for="ayjid" value="['AIHARA K 2014 2014 IEEE 7TH INTERNATIONAL CONFERENCE ON SERVICE-ORIENTED COMPUTING AND APPLICATIONS (SOCA)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="119" source="TANAKA Y" target="AIHARA K" weight="2.0">
+        <attvalues>
+          <attvalue for="ayjid" value="['AIHARA K 2016 DISTRIBUTED, AMBIENT AND PERVASIVE INTERACTIONS, (DAPI 2016)', 'AIHARA K 2014 2014 IEEE 7TH INTERNATIONAL CONFERENCE ON SERVICE-ORIENTED COMPUTING AND APPLICATIONS (SOCA)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="120" source="GHOSH G" target="YEN NY">
+        <attvalues>
+          <attvalue for="ayjid" value="['GHOSH G 2016 FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="121" source="GHOSH G" target="BANERJEE S">
+        <attvalues>
+          <attvalue for="ayjid" value="['GHOSH G 2016 FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="122" source="LONG Y" target="WANG JN">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="123" source="LONG Y" target="NI Z">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="124" source="LONG Y" target="WANG JH">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="125" source="SONG TM" target="SEO DC">
+        <attvalues>
+          <attvalue for="ayjid" value="['SONG JY 2016 JOURNAL OF ADOLESCENT HEALTH']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="126" source="SONG TM" target="SONG JY">
+        <attvalues>
+          <attvalue for="ayjid" value="['SONG JY 2016 JOURNAL OF ADOLESCENT HEALTH']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="127" source="SONG TM" target="JIN JH">
+        <attvalues>
+          <attvalue for="ayjid" value="['SONG JY 2016 JOURNAL OF ADOLESCENT HEALTH']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="128" source="CHING NG" target="DANIEL WA">
+        <attvalues>
+          <attvalue for="ayjid" value="['CHING NG 2015 INTERNATIONAL CONFERENCE ON ADVANCED MANAGEMENT SCIENCE AND INFORMATION ENGINEERING (AMSIE 2015)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="129" source="SONG JY" target="SEO DC">
+        <attvalues>
+          <attvalue for="ayjid" value="['SONG JY 2016 JOURNAL OF ADOLESCENT HEALTH']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="130" source="SONG JY" target="JIN JH">
+        <attvalues>
+          <attvalue for="ayjid" value="['SONG JY 2016 JOURNAL OF ADOLESCENT HEALTH']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="131" source="TAKASU A" target="ADACHI J">
+        <attvalues>
+          <attvalue for="ayjid" value="['AIHARA K 2014 2014 IEEE 7TH INTERNATIONAL CONFERENCE ON SERVICE-ORIENTED COMPUTING AND APPLICATIONS (SOCA)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="132" source="TAKASU A" target="AIHARA K" weight="2.0">
+        <attvalues>
+          <attvalue for="ayjid" value="['AIHARA K 2016 DISTRIBUTED, AMBIENT AND PERVASIVE INTERACTIONS, (DAPI 2016)', 'AIHARA K 2014 2014 IEEE 7TH INTERNATIONAL CONFERENCE ON SERVICE-ORIENTED COMPUTING AND APPLICATIONS (SOCA)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="133" source="AIHARA K" target="ADACHI J">
+        <attvalues>
+          <attvalue for="ayjid" value="['AIHARA K 2014 2014 IEEE 7TH INTERNATIONAL CONFERENCE ON SERVICE-ORIENTED COMPUTING AND APPLICATIONS (SOCA)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="134" source="BANERJEE S" target="YEN NY">
+        <attvalues>
+          <attvalue for="ayjid" value="['GHOSH G 2016 FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="135" source="LIANG WY" target="LIN SH">
+        <attvalues>
+          <attvalue for="ayjid" value="['HUANG CC 2016 ADVANCES IN DATA MINING: APPLICATIONS AND THEORETICAL ASPECTS']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="136" source="CHEN KT" target="WANG JH">
+        <attvalues>
+          <attvalue for="ayjid" value="['WANG JH 2015 2015 24TH WIRELESS AND OPTICAL COMMUNICATION CONFERENCE (WOCC)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="137" source="HUSSAIN A" target="VATRAPU R">
+        <attvalues>
+          <attvalue for="ayjid" value="['MUKKAMALA RR 2014 2014 IEEE INTERNATIONAL CONGRESS ON BIG DATA (BIGDATA CONGRESS)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="138" source="NI Z" target="WANG JN">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="139" source="NI Z" target="WANG JH">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="140" source="ZHOU YX" target="RAHARDJA S">
+        <attvalues>
+          <attvalue for="ayjid" value="['LI CC 2016 2016 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="141" source="ZHOU YX" target="ZHOU P">
+        <attvalues>
+          <attvalue for="ayjid" value="['LI CC 2016 2016 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="142" source="ZHOU YX" target="JIANG T">
+        <attvalues>
+          <attvalue for="ayjid" value="['LI CC 2016 2016 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="143" source="SEO DC" target="JIN JH">
+        <attvalues>
+          <attvalue for="ayjid" value="['SONG JY 2016 JOURNAL OF ADOLESCENT HEALTH']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="144" source="HSIEH HP" target="LI CT">
+        <attvalues>
+          <attvalue for="ayjid" value="[&quot;HSIEH HP 2015 MM'15: PROCEEDINGS OF THE 2015 ACM MULTIMEDIA CONFERENCE&quot;]"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="145" source="WANG JN" target="WANG JH">
+        <attvalues>
+          <attvalue for="ayjid" value="['CAI BF 2015 JOURNAL OF ENVIRONMENTAL MANAGEMENT']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="146" source="GIL-LOPEZ S" target="VILLAR-RODRIGUEZ E">
+        <attvalues>
+          <attvalue for="ayjid" value="['TORRE-BASTIDA AI 2015 INTELLIGENT DISTRIBUTED COMPUTING VIII']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="147" source="GUELLIL I" target="BOUKHALFA K">
+        <attvalues>
+          <attvalue for="ayjid" value="['GUELLIL I 2015 2015 12TH IEEE INTERNATIONAL CONFERENCE ON PROGRAMMING AND SYSTEMS (ISPS)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="148" source="RAHARDJA S" target="ZHOU P">
+        <attvalues>
+          <attvalue for="ayjid" value="['LI CC 2016 2016 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="149" source="RAHARDJA S" target="JIANG T">
+        <attvalues>
+          <attvalue for="ayjid" value="['LI CC 2016 2016 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)']"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="150" source="JIANG T" target="ZHOU P">
+        <attvalues>
+          <attvalue for="ayjid" value="['LI CC 2016 2016 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)']"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
